@@ -1,7 +1,7 @@
 # Hi I'm Rafael 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rbnascimento/)](https://www.linkedin.com/in/rbnascimento/)
-[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rbmnascimento/)](https://instagram.com/rbmnascimento)
+[![Linkedin Badge](https://img.shields.io/badge/-rbnascimento-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rbnascimento/)](https://www.linkedin.com/in/rbnascimento/)
+[![Instagram Badge](https://img.shields.io/badge/-@rbmnascimento-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rbmnascimento/)](https://instagram.com/rbmnascimento)
 
 
 Welcome to my profile!
