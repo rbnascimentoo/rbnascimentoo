@@ -28,6 +28,8 @@ Technologies I’m currently focused on
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<!--![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbnascimentoo&show_icons=true&theme=dracula)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbnascimentoo&layout=compact&theme=dracula)
 
 
 
