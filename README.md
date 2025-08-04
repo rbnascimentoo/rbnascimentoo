@@ -1,7 +1,7 @@
 # Hi I'm Rafael 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-rbnascimento-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rbnascimento/)](https://www.linkedin.com/in/rbnascimento/)
-[![Instagram Badge](https://img.shields.io/badge/-@rbmnascimento-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rbmnascimento/)](https://instagram.com/rbmnascimento)
+[![Linkedin Badge](https://img.shields.io/badge/-rbnascimento-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rbnascimento/)](https://www.linkedin.com/in/rbnascimento/)
+[![Instagram Badge](https://img.shields.io/badge/-@rbmnascimento-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/rbmnascimento/)](https://instagram.com/rbmnascimento)
 
 
 Welcome to my profile!
@@ -27,6 +27,24 @@ Technologies I’m currently focused on
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PrimeFaces](https://img.shields.io/badge/PrimeFaces-2D2D2D?style=for-the-badge&logo=java&logoColor=white)
+![RichFaces](https://img.shields.io/badge/RichFaces-2D2D2D?style=for-the-badge&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Wicket](https://img.shields.io/badge/Apache%20Wicket-2D2D2D?style=for-the-badge&logo=apache&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ModernKaiser](https://img.shields.io/badge/ModernKaiser-000000?style=for-the-badge&logo=modern-robot&logoColor=white) <!-- genérica -->
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 <!--![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbnascimentoo&show_icons=true&theme=dracula)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbnascimentoo&layout=compact&theme=dracula)
